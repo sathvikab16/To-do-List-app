@@ -1,5 +1,5 @@
 # To do list app
-To-do list apps are ideal for managing tasks that don't have specific time constraints or deadlines. We can create lists and organize tasks based on priority or categories.
+To-do list app are ideal for managing tasks that don't have specific time constraints or deadlines. We can create lists and organize tasks based on the priority.
 
 - We can add our task list and mark that task as completed or incomplete.
 - We can write the new task in the input box and click on the "Add" button then the new task will be added to the list.
