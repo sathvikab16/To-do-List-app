@@ -6,7 +6,7 @@ To-do list apps are ideal for managing tasks that don't have specific time const
 - We can click on the task name to marl it as completed or incomplete task.
 - We will add a close icon to delete the particular task from the ToDoList.
 
-## <p>Live: <a style=" text-decoration:none;" href="https://sathvikab16.github.io/Weather-app/">https://sathvikab16.github.io/Weather-app/</a></p>
+## <p>Live: <a style=" text-decoration:none;" href="https://sathvikab16.github.io/To-do-List-app/">https://sathvikab16.github.io/To-do-List-app/</a></p>
 ## 👩‍💻 Skills used
 - HTML5
 
